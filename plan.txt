@@ -4,3 +4,6 @@ Introduction
 1) Introduction RAG with SmartGuide 
 2) Demo basic MCP
 3) Demo MCP with SmartInAXA
+
+
+https://landscape.cncf.io/?group=projects-and-products&view-mode=grid
